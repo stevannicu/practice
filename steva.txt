@@ -1,1 +1,2 @@
-mica feature B steva feature A merged
+mica feature A merged conflict
+
