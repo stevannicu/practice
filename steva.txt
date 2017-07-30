@@ -1,2 +1,2 @@
-mica feature A merged conflict
+mica feature A merged conflict + imagine feature
 
